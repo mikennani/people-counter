@@ -1,4 +1,9 @@
-# A simple people counter project built using HTML, CSS and Javascript.
+# README.md
+
+
+## Project Description
+
+A simple people counter project built using HTML, CSS and Javascript.
 
 ## Project Url
 
